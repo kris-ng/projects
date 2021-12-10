@@ -151,14 +151,14 @@ As a closing, I will advise my clients to always come to me for consultation on 
 
 
 ### References
-1. Many thanks to Jesse Villines for the detailed breakdown of how he handled this set of housing data without which I may not have known how to tackle some nitty gritty details. 
-[Part 1](https://medium.com/mlearning-ai/a-thorough-dive-into-the-ames-iowa-housing-dataset-part-1-of-5-7205093a5a53)
-[Part 2](https://medium.com/mlearning-ai/a-thorough-dive-into-the-ames-iowa-housing-dataset-part-2-of-5-3e24ea276e1c)
-[Part 3](https://medium.com/mlearning-ai/a-thorough-dive-into-the-ames-iowa-housing-dataset-part-3-of-4-2c00e0a0eacf)
-[Part 4](https://medium.com/mlearning-ai/a-thorough-dive-into-the-ames-iowa-housing-dataset-part-4-of-4-e127321885da)
+1. Many thanks to Jesse Villines for the detailed breakdown of how he handled this set of housing data without which I may not have known how to tackle some nitty gritty details.  
+[Part 1](https://medium.com/mlearning-ai/a-thorough-dive-into-the-ames-iowa-housing-dataset-part-1-of-5-7205093a5a53)  
+[Part 2](https://medium.com/mlearning-ai/a-thorough-dive-into-the-ames-iowa-housing-dataset-part-2-of-5-3e24ea276e1c)  
+[Part 3](https://medium.com/mlearning-ai/a-thorough-dive-into-the-ames-iowa-housing-dataset-part-3-of-4-2c00e0a0eacf)  
+[Part 4](https://medium.com/mlearning-ai/a-thorough-dive-into-the-ames-iowa-housing-dataset-part-4-of-4-e127321885da)  
 
 2. [Alvin T.Tan](https://towardsdatascience.com/wrangling-through-dataland-modeling-house-prices-in-ames-iowa-75b9b4086c96) also shared very insightful viewpoints which gave me alternative perspectives when handling certain aspects of this dataset.
 
-3. In making sure to understand more about property flipping, we researched online for the [Singapore market](https://www.propertyguru.com.sg/property-guides/property-flipping-singapore-boomer-millennial-28396) as well as the US markets([article 1](https://en.wikipedia.org/wiki/United_States_housing_bubble), [article 2](https://www.investopedia.com/articles/mortgages-real-estate/08/house-flip.asp), [article 3](https://www.investopedia.com/terms/f/flipping.asp). We initially wanted to bring the context back to Singapore but realised that without sufficient data for the Singapore market, it would not be convincing hence we stayed within the US market of Ames, Iowa.
+3. In making sure to understand more about property flipping, we researched online for the [Singapore market](https://www.propertyguru.com.sg/property-guides/property-flipping-singapore-boomer-millennial-28396) as well as the US markets([article 1](https://en.wikipedia.org/wiki/United_States_housing_bubble), [article 2](https://www.investopedia.com/articles/mortgages-real-estate/08/house-flip.asp), [article 3](https://www.investopedia.com/terms/f/flipping.asp)). We initially wanted to bring the context back to Singapore but realised that without sufficient data for the Singapore market, it would not be convincing hence we stayed within the US market of Ames, Iowa.
 
 
